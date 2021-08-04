@@ -10,13 +10,13 @@ KHMN is used to assist in screening and annotating defined secondary metabolites
 
 ## ***\*Part 2: Feature Table Input and Alignment\****
 
- 	Multiple .xlsx files from different tissues can be dealt with at the same time. Tissue_ID is needed to provide in the feature table. Considering the emergence of redundancy, the features in different tissues will be aligned to generate a uniform Align_ID for later redundancy removal.
+Multiple .xlsx files from different tissues can be dealt with at the same time. Tissue_ID is needed to provide in the feature table. Considering the emergence of redundancy, the features in different tissues will be aligned to generate a uniform Align_ID for later redundancy removal.
 
  
 
 ## ***\*Part 3: MS2 Input and Filtering\****
 
- 	Every MS/MS spectrum in the newly generated .mgf MS2 files corresponds to an independent feature. The MSCluster algorithm doesn’t need to be activated during the molecular network construction. There are two situations in the MS/MS acquisition, including the same acquisition condition contains multiple MS2 files or only one MS2 file. We separate the two situations into simple conversion and batch conversion. The ID of initial feature table must start with tissue_0, such as Silk_0.
+Every MS/MS spectrum in the newly generated .mgf MS2 files corresponds to an independent feature. The MSCluster algorithm doesn’t need to be activated during the molecular network construction. There are two situations in the MS/MS acquisition, including the same acquisition condition contains multiple MS2 files or only one MS2 file. We separate the two situations into simple conversion and batch conversion. The ID of initial feature table must start with tissue_0, such as Silk_0.
 
 ### ***\*3.1: Simple Conversion\****
 
