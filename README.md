@@ -102,6 +102,7 @@ To use KHMN, it is recommended to install python3.6.4 or above.
 
  
 
-***\*Part 10: Redundancy Removal\****
+***\[KHMN Scripts User Manual.md](https://github.com/DLUT-datas/KHMN/files/6929589/KHMN.Scripts.User.Manual.md)
+*Part 10: Redundancy Removal\****
 
 ​		The nodes with the same Align_ID will be merged, which refers to redundant nodes in the same acquisition condition but different tissues. There are some small changes for the connection of the network clusters. But it does not affect the final result.
