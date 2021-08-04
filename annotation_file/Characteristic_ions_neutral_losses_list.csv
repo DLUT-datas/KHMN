@@ -1,0 +1,23 @@
+No.,Neutral losses,Abbreviation,Type,Molecular formula,Exact mass
+6,Cinnamic acid,CinC,Characteristic ion,C9H7O+,131.0491
+7,Coumaric acid,CouC,Characteristic ion,C9H7O2+,147.0441
+8,Caffeic acid,CafC,Characteristic ion,C9H7O3+,163.039
+9,Ferulic acid,FerC,Characteristic ion,C10H9O3+,177.0546
+10,5-OH-Ferulic acid,5-OH-FerC,Characteristic ion,C10H9O4+,193.0495
+11,Sinapic acid,SinC,Characteristic ion,C11H11O4+,207.0652
+12,Coumaroyl,Cou,Neutral loss of HCA,C9H6O2,146.0368
+13,Caffeoyl ,Caf,Neutral loss of HCA,C9H6O3,162.0317
+14,Feruloyl,Fer,Neutral loss of HCA,C10H8O3,176.0473
+15,5-OH-Feruloyl,5-OH-Fer,Neutral loss of HCA,C10H8O4,192.0423
+16,Sinapoyl,Sin,Neutral loss of HCA,C11H10O4,206.0579
+17,Putrescine,Put,Neutral loss of Amine,C4H12N2,88.1
+18,Cadaverine,Cad,Neutral loss of Amine,C5H14N2,102.1157
+19,Agmatine,Agm,Neutral loss of Amine,C5H14N4,130.1218
+20,Tyramine,Tyr,Neutral loss of Amine,C8H11NO,137.0841
+21,Spermidine,Spe,Neutral loss of Amine,C7H19N3,145.1579
+22,Octopamine/Dopamine,Oct/Dop,Neutral loss of Amine,C8H11NO2,153.079
+23,3-methoxytyramine,3-MeO-Tyr,Neutral loss of Amine,C9H13NO2,167.0946
+24,Noradrenaline,Nor,Neutral loss of Amine,C8H11NO3,169.0739
+25,Serotonin/Tryptamine,Ser/Trp,Neutral loss of Amine,C10H12N2O,176.095
+26,3'-methoxyoctopamine,3'-MeO-Oct,Neutral loss of Amine,C9H12NO3,182.0817
+27,5-methoxytryptamine,5-MeO-Trp,Neutral loss of Amine,C11H14N2O,190.1106

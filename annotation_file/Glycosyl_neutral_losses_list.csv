@@ -1,0 +1,20 @@
+Glycosyl,Abbreviation,Neutral loss,Exact mass
+Hexosyl,Hex,C6H10O5,162.0528234
+deoxyHexosyl,dHex,C6H10O4,146.0579088
+dehydro-deoxyHexosyl,dd,C6H8O4,144.0422587
+Pentosyl,Pen,C5H8O4,132.0422587
+Coumaroyl,Cou,C9H6O2,146.0367794
+Caffeoyl ,Caf,C9H6O3,162.0316941
+Feruloyl,Fer,C10H8O3,176.0473441
+5-OH-Feruloyl,5-OH-Fer,C10H8O4,192.0422587
+Sinapoyl,Sin,C11H10O4,206.0579088
+CoumaroylHexosyl,CouH,C15H16O7,308.0896029
+CaffeoylHexosyl,CafH,C15H16O8,324.0845175
+FeruloylHexosyl,FerH,C16H18O8,338.1001675
+5-OH-feruloylHexosyl,5OHFH,C16H18O9,354.0950822
+SinapoylHexosyl,SinH,C17H20O9,368.1107322
+CoumaroyldeoxyHexosyl,CoudH,C15H16O6,292.0946882
+CaffeoyldeoxyHexosyl,CafdH,C15H16O7,308.0896029
+FeruloyldeoxyHexosyl,FerdH,C16H18O7,322.1052529
+5-OH-FeruloyldeoxyHexosyl,5OHFdH,C16H18O8,338.1001675
+SinapoyldeoxyHexosyl,SindH,C17H20O8,352.1158176
