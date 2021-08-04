@@ -2,19 +2,33 @@
 KHMN Scripts User Manual
 
 Part 1: Introduction and Installation
+
 Part 2: Feature Table Input and Alignment
+
 Part 3: MS2 Input and Filtering
+
 3.1: Simple Conversion
+
 3.2: Batch Conversion
+
 Part 4: New MS2 Loading
+
 Part 5: Seed Metabolites MS2 Input
+
 Part 6: Seed Metabolites Identification and Marking
+
 Part 7: MS2 Similarity and Molecular Network Generation
+
 Part 8: Candidates Features Screening
+
 Part 9: Nodes and Edges Annotation
+
 9.1: Nodes and Edges Annotation of HCAAs
+
 9.2 Nodes and Edges Annotation of CGFs
+
 9.3 Edges Annotation of BOAs
+
 Part 10: Redundancy Removal
 
 Part 1: Introduction and Installation
