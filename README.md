@@ -34,9 +34,7 @@ Part 10: Redundancy Removal
 
 ***\*Part 1: Introduction and Installation\****
 
-KHMN is used to assist in screening and annotating functional metabolites. 
-
-To use KHMN, it is recommended to install python3.6.0 or above.
+Knowledge-based hybrid molecular network (KHMN) is a tool to screen and annotate specialized metabolites involved in important biological functions in complex plant extracts.The source program is in the Python language. To use KHMN, it is recommended to install python3.6.0 or above. The example of input files, intermediate files and expected outputs can be downloaded freely from the SourceForge via https://sourceforge.net/projects/khmn/. All raw data intermediate MS/MS files, and reference MS/MS spectra of seed metabolites are available at BioStudies [https://www.ebi.ac.uk/biostudies/] (Studies: S-BSST1188 and S-BSST1189 for raw data in positive and negative ion modes, respectively; S-BSST1190 for intermediate MS/MS files; S-BSST1191 for reference MS/MS spectra of seed metabolites).
 
  
 
